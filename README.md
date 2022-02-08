@@ -4,7 +4,7 @@
 
 1. [Socialpoint](#socialpoint)
 1. [Unity](#unity)
-1. [Frelancing](#freelancing)
+1. [Freelancing](#freelancing)
 1. [Exient Malta](#exient-malta)
 1. [Gamajun Games](#gamajun-games)
 1. [Lion System](#lion-systems)
