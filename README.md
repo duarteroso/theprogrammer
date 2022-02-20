@@ -2,20 +2,25 @@
 
 ## History
 
-1. [Socialpoint](#socialpoint)
-1. [Unity](#unity)
-1. [Freelancing](#freelancing)
-1. [Exient Malta](#exient-malta)
-1. [Gamajun Games](#gamajun-games)
-1. [Lion System](#lion-systems)
-1. [Internships](#internships)
-   1. [Cyanide](#cyanide)
-   1. [Blackpixel](#blackpixel-studios)
-1. [Creajeux](#creajeux)
-1. [University](#university)
+1. [Career](#career)
+   1. [Socialpoint](#socialpoint)
+   1. [Unity](#unity)
+   1. [Freelancing](#freelancing)
+   1. [Exient Malta](#exient-malta)
+   1. [Gamajun Games](#gamajun-games)
+   1. [Lion System](#lion-systems)
+   1. [Internships](#internships)
+      1. [Cyanide](#cyanide)
+      1. [Blackpixel](#blackpixel-studios)
+1. [Schools](#schools)
+   1. [Creajeux](#creajeux)
+   1. [University](#university)
+1. [Book Reviews](#book-reviews)
 1. [Closing Thoughts](#closing-thoughts)
 
 ---
+
+## Career
 
 ## Socialpoint
 
@@ -278,6 +283,8 @@ idea. In a team of 5 artists, I worked on all the gameplay of the prototype.
 
 ---
 
+## Schools
+
 ## Creajeux
 
 #### 2009 - 2011
@@ -339,6 +346,16 @@ I have a bachelor degree in `Computer Science` from the University of Joseph Fou
 1. Java
    - Algorithmics
    - UI/UX
+
+---
+
+## Book Reviews
+
+### Getting Started with V Programming
+
+Autor `Navule Pavan Kumar Rao`, first publication in 2021 by `Packt Publishing`
+
+[Amazon link](https://www.amazon.com/Getting-Started-Programming-end-end/dp/1839213434/ref=sr_1_1?crid=GHU38CTC0PWB&keywords=Getting+started+with+v+programming&qid=1645374272&sprefix=getting+started+with+v+programming%2Caps%2C145&sr=8-1)
 
 ---
 
