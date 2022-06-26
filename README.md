@@ -3,6 +3,7 @@
 ## History
 
 1. [Career](#career)
+   1. [MPG](#mpg)
    1. [Socialpoint](#socialpoint)
    1. [Unity](#unity)
    1. [Freelancing](#freelancing)
@@ -22,9 +23,30 @@
 
 ## Career
 
+## MPG
+
+#### Senior Software Engineer | February 2022
+
+Helping the Epic EOS team to have an Android version of their SDK that is at its best possible quality.
+
+#### Tasks
+
+- Rewrite samples to match quality standards, technically & visually
+- Improve Android tests
+- Keep SDK up to date with Android OS changes
+
+#### Tech
+
+- Java
+   - Native Android
+- C/C++
+   - EOS SDK Core
+   
+---
+
 ## Socialpoint
 
-#### Mobile Game Developer
+#### Mobile Game Developer | June 2020 - February 2022
 
 Being part of the Central Tech division, my role as a member of the Platform Team was to support
 the game teams with new features and issues they might face at any point.
