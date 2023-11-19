@@ -37,7 +37,7 @@ Helping the Epic EOS team to have an Android version of their SDK that is at its
 
 #### Tech
 
-- Java
+- Java/Kotlin
    - Native Android
 - C/C++
    - EOS SDK Core
