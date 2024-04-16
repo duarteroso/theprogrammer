@@ -27,7 +27,7 @@
 
 #### Senior Software Engineer | February 2022
 
-Helping the Epic EOS team to have an Android version of their SDK that is at its best possible quality.
+Helping the Client to have an Android version of their SDK that is at its best possible quality.
 
 #### Tasks
 
@@ -40,7 +40,7 @@ Helping the Epic EOS team to have an Android version of their SDK that is at its
 - Java/Kotlin
    - Native Android
 - C/C++
-   - EOS SDK Core
+   - Core SDK
    
 ---
 
